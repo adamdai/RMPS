@@ -1,4 +1,4 @@
-classdef RMPS_agent < handle
+classdef RMPS_agent < RMPS_superclass
 % RMPS_agent
 %
 % General comments about the class go here.

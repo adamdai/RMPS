@@ -1,4 +1,4 @@
-classdef RMPS_world < handle
+classdef RMPS_world < RMPS_superclass
 % RMPS_world
 %
 % General comments about the class go here.

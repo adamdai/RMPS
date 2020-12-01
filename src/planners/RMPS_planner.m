@@ -1,4 +1,4 @@
-classdef RMPS_planner < handle
+classdef RMPS_planner < RMPS_superclass
 % RMPS_planner
 %
 % General comments about the class go here.
